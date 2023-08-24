@@ -9,8 +9,12 @@ Search for "audioplayers_flutter" and "Audioplayers Flutter" in the main folder 
 If you wish, you can change the icon in 'assets/images/icon.png', more instructions in the pubspec.yaml
 
 ## 3 Step
+<<<<<<< HEAD
 
 Start your app in homePage.dart
+=======
+Start your app in home_page.dart
+>>>>>>> 60c7296456c4133d74962b3116a480c3bd5c2174
 
 ## Getting Started
 
