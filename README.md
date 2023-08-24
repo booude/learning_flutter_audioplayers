@@ -7,7 +7,7 @@ Search for "flutter_template" and "Flutter Template" in the main folder and repl
 If you wish, you can change the icon in 'assets/images/icon.png', more instructions in the pubspec.yaml
 
 ## 3 Step
-Start your app in homePage.dart
+Start your app in home_page.dart
 
 ## Getting Started
 
